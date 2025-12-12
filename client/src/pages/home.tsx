@@ -254,7 +254,7 @@ export default function Home() {
                 </div>
                 
                 <button 
-                  onClick={() => window.location.href = "https://checkout.seupagamento.com/glynch-zero"} // Coloque seu link de checkout aqui
+                  onClick={() => window.location.href = "https://app.pushinpay.com.br/service/pay/A09233B6-6184-4CD2-AC62-5F7B92D37CA4"} // Coloque seu link de checkout aqui
                   className="w-full bg-green-500 hover:bg-green-600 text-white font-black text-xl py-5 rounded-lg shadow-[0_0_0_0_rgba(34,197,94,0.7)] hover:shadow-[0_0_0_10px_rgba(34,197,94,0)] animate-[pulse-green_2s_infinite] transform hover:-translate-y-1 transition-all duration-200 mb-6 flex items-center justify-center gap-2"
                 >
                   COMPRAR AGORA
